@@ -117,6 +117,8 @@
 
 # Hackaday
   alias @had='googler -w hackaday.com'
+# hanwen360
+  alias @han='googler -w hanwen360.com'
 # Healthline
   alias @hl='googler -w healthline.com'
 # History
