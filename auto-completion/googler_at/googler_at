@@ -23,7 +23,7 @@
 # Arch User Repository
   alias @aur='googler -w aur.archlinux.org'
 # Arch Wiki
-  alias @aw='googler -w wiki.archlinux.org'
+  alias @arch='googler -w wiki.archlinux.org'
 # AZLyrics
   alias @azl='googler -w azlyrics.com'
 
@@ -33,6 +33,8 @@
   alias @bbc='googler -w bbc.co.uk'
 # Encyclopaedia Britannica
   alias @britannica='googler -w britannica.com'
+# bilibili
+  alias @bili='googler -w bilibili.com'
 
     # C
 
@@ -309,6 +311,8 @@
   alias @walmart='googler -w walmart.com'
 # Weather.com
   alias @weather='googler -w weather.com'
+# 新浪微博
+  alias @wb='googler -w weibo.com'
 # Wikia
   alias @wikia='googler -w wikia.com'
 
@@ -320,11 +324,11 @@
     # Y
 
 # Yahoo
-  alias @y='googler -w yahoo.com'
+  alias @yahoo='googler -w yahoo.com'
 # Yahoo Finance
   alias @yf='googler -w finance.yahoo.com'
 # YouTube
-  alias @yt='googler -w youtube.com'
+  alias @y='googler -w youtube.com'
 
     # Z
 
