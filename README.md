@@ -4,9 +4,7 @@
 <a href="https://github.com/jarun/googler/releases/latest"><img src="https://img.shields.io/github/release/jarun/googler.svg?maxAge=600" alt="Latest release" /></a>
 <a href="https://repology.org/project/googler/versions"><img src="https://repology.org/badge/tiny-repos/googler.svg" alt="Availability"></a>
 <a href="https://github.com/jarun/googler/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-yellowgreen.svg?maxAge=2592000" alt="License" /></a>
-<a href="https://github.com/jarun/googler/actions"><img src="https://github.com/jarun/googler/workflows/test/badge.svg?branch=master" alt="Build Status" /></a>
-<a href="https://repl.it/github/jarun/googler"><img src="https://repl.it/badge/github/jarun/googler?maxAge=2592000" alt="Repl.it" /></a>
-
+<a href="https://github.com/jarun/googler/actions"><img src="https://github.com/jarun/googler/workflows/ci/badge.svg?branch=master" alt="Build Status" /></a>
 </p>
 
 <p align="center">
@@ -469,7 +467,7 @@ Pull requests are welcome. Please visit [#209](https://github.com/jarun/googler/
 ### Developers
 
 1. Copyright © 2008 Henri Hakkinen
-2. Copyright © 2015-2020 [Arun Prakash Jana](https://github.com/jarun)
+2. Copyright © 2015-2021 [Arun Prakash Jana](https://github.com/jarun)
 3. [Zhiming Wang](https://github.com/zmwangx)
 4. [Johnathan Jenkins](https://github.com/shaggytwodope)
 5. [SZ Lin](https://github.com/szlin)
